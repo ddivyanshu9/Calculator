@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calctext">131232312</string>
+    <string name="_0">0</string>
+    <string name="_equal">=</string>
+    <string name="_sub">-</string>
+    <string name="add">+</string>
+    <string name="_clr">clr</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="x">X</string>
+    <string name="_6">6</string>
+    <string name="equal">=</string>
+</resources>
